@@ -2,10 +2,10 @@ ip3_12_comp_team1
 
 Group Members
 
-Peter Robertson
-Kevin Campbell
-Henna Mohammed
-Stacy Docherty
+Peter Robertson <br>
+Kevin Campbell <br>
+Henna Mohammed <br>
+Stacy Docherty <br>
 
 
 =================
